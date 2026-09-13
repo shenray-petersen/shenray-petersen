@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=shenray-petersen&color=ff69b4)
 I'm Shenray, a BSc Computer Science Student based in South Africa.
 I love the thought of being able to build whatever i can imagine.
 
